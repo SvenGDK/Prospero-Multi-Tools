@@ -24,7 +24,7 @@ A PS5 Backup Toolkit for PS1, PS2, PS3, PS4, PS5, PSP and PS Vita. Browse backup
 
 ## What you need
 
-- A PS5 running a firmware supported by the [`unjail](https://github.com/SvenGDK/unjail-ps5app-payload)` payload.
+- A PS5 running a firmware supported by the [`unjail`](https://github.com/SvenGDK/unjail-ps5app-payload)` payload.
 - The `unjail` payload sent to the console before you open the app. Without it, the app cannot widen its file view past its own sandbox: installs, emulator launches, and every scan of `/data` or a USB drive will refuse. The `unjail` payload is required for every launch.
 - An USB drive is enough to get started. The app also reads and writes `/data` and `/user` internally once the escalation daemon is running.
 
