@@ -1,0 +1,40 @@
+{
+  "emulators": [
+    {
+      "name": "Jakv2",
+      "folder": "Jakv2",
+      "kind": "PS2",
+      "title_id": "CRST00001",
+      "content_id": "UP9000-CRST00001_00-TEST123450000001",
+      "title": "Something Went Frong: The Game",
+      "device_path": "/data/homebrew/emulators/Jakv2"
+    },
+    {
+      "name": "Roguev1",
+      "folder": "Roguev1",
+      "kind": "PS2",
+      "title_id": "CUSA00000",
+      "content_id": "EP1004-CUSA00000_00-SLES000000000000",
+      "title": "Ps2emu",
+      "device_path": "/data/homebrew/emulators/Roguev1"
+    },
+    {
+      "name": "ps1hd",
+      "folder": "ps1hd",
+      "kind": "PS1",
+      "title_id": "PSHD00000",
+      "content_id": "UP9000-PSHD00000_00-PSHD000000000000",
+      "title": "Something Went",
+      "device_path": "/data/homebrew/emulators/ps1hd"
+    },
+    {
+      "name": "psphd",
+      "folder": "psphd",
+      "kind": "PSP",
+      "title_id": "CUSA32644",
+      "content_id": "UP9000-CUSA32644_00-NPUG801350000000",
+      "title": "Echochrome",
+      "device_path": "/data/homebrew/emulators/psphd"
+    }
+  ]
+}
