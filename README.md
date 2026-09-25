@@ -1,5 +1,9 @@
 # Prospero Multi Tools
 
+<p align="center">
+<img src="https://github.com/SvenGDK/Prospero-Multi-Tools/blob/main/sce_sys/icon0.png" width="256">
+</p>
+
 A PS5 Backup Toolkit for PS1, PS2, PS3, PS4, PS5, PSP and PS Vita. Browse backups, inspect and modify metadata, install PS4/PS5 packages, launch PS1/PS2/PSP titles, and more.
 
 ## Contents
